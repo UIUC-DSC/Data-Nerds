@@ -1,6 +1,6 @@
 # Data-Nerds
 
-Team name: Data the Regression
+Team name: Data Nerds
 Language: Python
 Software: 
 Data sources:
