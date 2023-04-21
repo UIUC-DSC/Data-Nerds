@@ -27,6 +27,9 @@ Data Dictionary:
 | Weather | city | Name of city in which data was collected | Text |
 
 
+Data Schema:
+![alt text](https://github.com/UIUC-DSC/Data-Nerds/blob/main/Data_Schema.png)
+
 Ideas:
 meteorology (climate data)
 Details on global temperatures
