@@ -9,6 +9,22 @@ https://archive.ics.uci.edu/ml/datasets.php
 https://data.gov/
 https://databank.illinois.edu/datasets
 
+Data Dictionary:
+Table	Attribute Name	Description	Datatype
+	record_#	Record number	Numeric
+	date	Date data was recorded	Date
+Wildfire	latittude	Latittude of location where satellite data was acquired	Numeric
+Wildfire	longitude	Longitude of location where satellite data was acquired	Numeric
+Wildfire	satellite 	Name of the satelite that acquired data	Text
+Wildfire	avg_frp	Avereage Fire Radiative Power; measurement of heat energy released from fire, or strength, in Megawatts (MW)	Numeric
+	surface_temp	Surface temperature of location where satellite data was acquired	Numeric
+Wildfire	confidence	This attribute represents the algorithmic confidence level that a pixel is a fire pixel. The confidence range is between 0 and 100, with 100 being the highest confidence. A higher confidence level indicates that the pixel is more likely to be a fire pixel.	Numeric
+Wildfire	fire_count	Number of fires in a day	Numeric
+Weather	max_temp	Maximum temperature recorded for a day	Numeric
+Weather	rain	Rain levels of a day measured in inches	Numeric
+Weather	city 	Name of city in which data was collected	Text
+
+
 Ideas:
 meteorology (climate data)
 Details on global temperatures
