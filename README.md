@@ -3,8 +3,8 @@
 Team name: Data Nerds \
 Language: Python \
 Data sources: Kaggle
-> https://archive.ics.uci.edu/ml/datasets.php
-> https://data.gov/
+> https://archive.ics.uci.edu/ml/datasets.php \
+> https://data.gov/ \
 > https://databank.illinois.edu/datasets
   
 ## Presentation
