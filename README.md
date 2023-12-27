@@ -3,9 +3,9 @@
 Team name: Data Nerds \
 Language: Python \
 Data sources: Kaggle \
-https://archive.ics.uci.edu/ml/datasets.php \
-https://data.gov/ \
-https://databank.illinois.edu/datasets \
+  https://archive.ics.uci.edu/ml/datasets.php \
+  https://data.gov/ \
+  https://databank.illinois.edu/datasets
 
 ## Presentation
 [Data Nerds.pptx](https://github.com/UIUC-DSC/Data-Nerds/files/13774878/Data.Nerds.pptx)
